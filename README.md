@@ -1,4 +1,4 @@
-# Geo-location-based-Community-detection-in-Twitter
+# Analyzing Vaccination Discussions and Communities in Twitter
 
 
 # Introduction
