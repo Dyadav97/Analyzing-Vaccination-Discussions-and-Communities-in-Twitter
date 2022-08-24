@@ -17,6 +17,8 @@ regardless of whether the presentation is biased and represents anything differe
 statements that aren’t true. Tableau, Google Charts, Info gram, and Data Wrapper are just a few examples of
 technologies that may be used to display enormous amounts of data. This visualization will be entirely
 automated in the near future .
+![image](https://user-images.githubusercontent.com/84806846/186500671-34299503-5712-4ecd-9ff6-2c404b3ce0d4.png)
+
 # Research Questions
 (1)	What criteria are used to anticipate the  flow  and  data associated with large-scale information regarding vaccines?
 (2)	What are people’s attitudes on vaccines, and who has impacted them?
